@@ -1,0 +1,15 @@
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\bin\Debug\net6.0\kamen nuzky papir.exe
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\bin\Debug\net6.0\kamen nuzky papir.deps.json
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\bin\Debug\net6.0\kamen nuzky papir.runtimeconfig.json
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\bin\Debug\net6.0\kamen nuzky papir.dll
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\bin\Debug\net6.0\kamen nuzky papir.pdb
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\obj\Debug\net6.0\kamen nuzky papir.csproj.AssemblyReference.cache
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\obj\Debug\net6.0\kamen nuzky papir.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\obj\Debug\net6.0\kamen nuzky papir.AssemblyInfoInputs.cache
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\obj\Debug\net6.0\kamen nuzky papir.AssemblyInfo.cs
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\obj\Debug\net6.0\kamen nuzky papir.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\obj\Debug\net6.0\kamen nuzky papir.dll
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\obj\Debug\net6.0\refint\kamen nuzky papir.dll
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\obj\Debug\net6.0\kamen nuzky papir.pdb
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\obj\Debug\net6.0\kamen nuzky papir.genruntimeconfig.cache
+D:\Dokumenty\Adam\VisualStudio\kamen nuzky papir\obj\Debug\net6.0\ref\kamen nuzky papir.dll
